@@ -1,2 +1,2 @@
  yandex-translate-api
-https://kayrabtuncer.github.io/yandex-translate-api/
+https://devkayra.github.io/yandex-translate-api/
